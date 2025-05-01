@@ -1,0 +1,15 @@
+<table border='1'>
+			<thead>
+				<tr>
+				<th bgcolor='#FFD54F'>Invoice ID</th>
+				<th bgcolor='#FFD54F'>Patient Name</th>
+				<th bgcolor='#FFD54F'>Patient Name</th>
+				<th bgcolor='#FFD54F'>Doctor Name</th>
+				<th bgcolor='#FFD54F'>Invoice Items</th>
+				<th bgcolor='#FFD54F'>Invoice Total</th>
+				<th bgcolor='#FFD54F'>Discount</th>
+				<th bgcolor='#FFD54F'>Date & Time</th>
+				</tr>
+			</thead>
+			<tbody>
+			</tbody>
